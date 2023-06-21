@@ -1,9 +1,3 @@
 # english_quiz
+![Screenshot_1687330085](https://github.com/AbdurahmonAbdurasul/english_quiz/assets/137193356/5f12af93-5ff9-4557-8400-b2e36060b491)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
